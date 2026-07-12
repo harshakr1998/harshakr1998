@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Senior Quality Engineer<br>Looking forward to work on challenging projects!<br>I am currently learning advanced framework design for Automation Testing
+I'm currently working as a SDET<br>Looking forward to work on challenging projects!<br>I am currently learning advanced framework design for Automation Testing
 
 
 ## 🌐 Socials:
